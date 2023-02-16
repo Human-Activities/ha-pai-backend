@@ -1,17 +1,23 @@
-pip install django
+1. pobieramy pythona stad https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
-pip install djangorestframework
+2. instalujemy z execa
 
-python manage.py runserver
+3. potem odpalamy cmd, najlepiej juz w naszym projekcie
+
+4. pip install django
+
+5. pip install djangorestframework
+
+6. python manage.py runserver
 
 
 w razie potrzeby przed runserver robimy 
 
-usuwamy pliczki z pai/migrations poza tymi co sa podloga podloga costam podloga podloga
+1. usuwamy pliczki z pai/migrations poza tymi co sa podloga podloga costam podloga podloga
 
-python manage.py makemigrations pai
+2. python manage.py makemigrations pai
 
-python manage.py migrate --fake-initial
+3. python manage.py migrate --fake-initial
 
-python manage.py runserver
+4. python manage.py runserver
 
