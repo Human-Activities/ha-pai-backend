@@ -7,7 +7,7 @@ python manage.py runserver
 
 w razie potrzeby przed runserver robimy 
 
-usuwamy pliczki z pai/migrations poza tymi co sa __costam__
+usuwamy pliczki z pai/migrations poza tymi co sa podloga podloga costam podloga podloga
 
 python manage.py makemigrations pai
 
