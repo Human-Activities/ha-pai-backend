@@ -1,3 +1,5 @@
+Jak w zycie?
+
 1. pobieramy pythona stad https://www.python.org/ftp/python/3.10.9/python-3.10.9-amd64.exe
 
 2. instalujemy z execa
@@ -11,7 +13,7 @@
 6. python manage.py runserver
 
 
-w razie potrzeby przed runserver robimy 
+W razie potrzeby przed runserver robimy 
 
 1. usuwamy pliczki z pai/migrations poza tymi co sa podloga podloga costam podloga podloga
 
